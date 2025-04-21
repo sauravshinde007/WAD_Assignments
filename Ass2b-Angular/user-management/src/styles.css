@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    background-color: white;
+    border-radius: 10px;
+  }
+  
+  h2 {
+    font-weight: bold;
+  }
+  
+  button {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
